@@ -1,0 +1,15 @@
+# Dub Example 2:
+  The program is "lexically" correct
+  and should not generate any error #
+__myMeth__
+	while $i < 6
+	print ("OK")
+	return 
+__myMeth2__
+	while $i > 6
+	print ("NOT OK")
+	return 
+__myMeth3__
+	$sum = $x + $y
+	return 
+	

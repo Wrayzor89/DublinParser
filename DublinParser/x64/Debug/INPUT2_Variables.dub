@@ -1,0 +1,6 @@
+# BOA Example 3:
+  Variables #
+$myName = "Sean"
+$myAge = 33
+$myHeight = 178
+$myMajor = "CET"
